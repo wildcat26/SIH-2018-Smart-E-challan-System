@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <sitemap>
+      <loc>http://www.pscquestion.in/sitemap4.xml.gz</loc>
+      <lastmod>2017-08-11T02:00:00+05:30</lastmod>
+   </sitemap> 
+   <sitemap>
+    <loc>http://www.pscquestion.in/sitemap2.xml</loc>
+    <lastmod>2018-02-24T04:00:00+00:00</lastmod>
+ </sitemap>
+   <sitemap>
+    <loc>http://www.pscquestion.in/sitemap4.xml</loc>
+    <lastmod>2017-09-28T01:54:00+05:30</lastmod>
+ </sitemap>
+    <sitemap>
+    <loc>http://www.pscquestion.in/sitemappage.xml</loc>
+    <lastmod>2018-01-11T14:30:00+00:00</lastmod>
+ </sitemap>
+     <sitemap>
+    <loc>http://www.pscquestion.in/sitemapteststudy.xml</loc>
+    <lastmod>2018-01-16T02:30:00+00:00</lastmod>
+ </sitemap>
+
+   </sitemapindex>
